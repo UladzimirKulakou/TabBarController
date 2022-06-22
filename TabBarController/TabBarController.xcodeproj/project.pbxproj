@@ -17,6 +17,7 @@
 		0A1B15EE2863466A004E2F6F /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1B15ED2863466A004E2F6F /* HomeViewController.swift */; };
 		0A1B15F0286346D0004E2F6F /* PersonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1B15EF286346D0004E2F6F /* PersonViewController.swift */; };
 		0A1B15F228634726004E2F6F /* SystemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1B15F128634726004E2F6F /* SystemViewController.swift */; };
+		0A1B15F4286350F6004E2F6F /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1B15F3286350F6004E2F6F /* UIColorExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		0A1B15ED2863466A004E2F6F /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		0A1B15EF286346D0004E2F6F /* PersonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonViewController.swift; sourceTree = "<group>"; };
 		0A1B15F128634726004E2F6F /* SystemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemViewController.swift; sourceTree = "<group>"; };
+		0A1B15F3286350F6004E2F6F /* UIColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				0A1B15ED2863466A004E2F6F /* HomeViewController.swift */,
 				0A1B15EF286346D0004E2F6F /* PersonViewController.swift */,
 				0A1B15F128634726004E2F6F /* SystemViewController.swift */,
+				0A1B15F3286350F6004E2F6F /* UIColorExtension.swift */,
 			);
 			path = TabBarController;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				0A1B15DF28634255004E2F6F /* TabBarController.xcdatamodeld in Sources */,
 				0A1B15EC286343E2004E2F6F /* MainTabBarController.swift in Sources */,
 				0A1B15D528634255004E2F6F /* AppDelegate.swift in Sources */,
+				0A1B15F4286350F6004E2F6F /* UIColorExtension.swift in Sources */,
 				0A1B15D728634255004E2F6F /* SceneDelegate.swift in Sources */,
 				0A1B15EE2863466A004E2F6F /* HomeViewController.swift in Sources */,
 				0A1B15F0286346D0004E2F6F /* PersonViewController.swift in Sources */,
